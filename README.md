@@ -1,6 +1,6 @@
 
-## Devloper:
-Devloped By Engineer Moaz
+# Developer:
+##Devloped By Engineer Moaz
 
 # 2D-platformer-Game-Unity
 2D Tilemap Platformer Unity
