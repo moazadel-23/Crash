@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d680b54fe796791438ac9a5c9f52806a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageEffect: {instanceID: 0}
+  - FullHeartSprite: {fileID: 21300000, guid: 45c70376f652317479598a69cb209e70, type: 3}
+  - HalfHeartSprite: {fileID: 21300000, guid: b693eb9329bf3b04b89ff8740c18a857, type: 3}
+  - EmptyHeartSprite: {fileID: 21300000, guid: b693eb9329bf3b04b89ff8740c18a857, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
